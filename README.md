@@ -1,4 +1,3 @@
-# Hello there 😄
-- I'm a teenager passionate about technology specifically Windows & Linux.
-
---> idk
+# Hello there 😁
+### I'm a teenager passionate about technology specifically Windows & Linux.
+### I'm looking forward to do programming in the future.
